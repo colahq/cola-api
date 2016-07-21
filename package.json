@@ -1,6 +1,6 @@
 {
   "name": "cola-api",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "API set for creating bubbles for Cola Messenger app(s)",
   "main": "Cola.js",
   "scripts": {
