@@ -1,0 +1,15 @@
+{
+  "name" : "cola-api",
+  "version" : "0.0.1",
+  "description" : "API set for creating bubbles for Cola Messenger",
+  "main" : "Cola.js",
+  "scripts" : {
+    "test" : "echo \"Error: no test specified\" && exit 1"
+  },
+  "author" : "Cola, Inc.",
+  "license" : "ISC",
+  "dependencies" : {
+    "react" : "15.1.0",
+    "react-native" : "git+https://github.com/InterfaceInc/react-native.git#0863bcd"
+  }
+}
