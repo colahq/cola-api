@@ -1,6 +1,6 @@
 'use strict';
 
-var Blacklist = require('../react-native/packager/blacklist.js');
+var Blacklist = require('../../react-native/packager/blacklist.js');
 var Path = require('path');
 
 var Disavowed = [

@@ -1,15 +1,23 @@
 {
-  "name" : "cola-api",
-  "version" : "0.0.1",
-  "description" : "API set for creating bubbles for Cola Messenger",
-  "main" : "Cola.js",
-  "scripts" : {
-    "test" : "echo \"Error: no test specified\" && exit 1"
+  "name": "@colahq/cola-api",
+  "version": "0.0.4",
+  "description": "API set for creating bubbles for Cola Messenger app(s)",
+  "main": "Cola.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author" : "Cola, Inc.",
-  "license" : "ISC",
+  "author": "Cola, Inc.",
+  "license": "Apache-2.0",
   "dependencies" : {
     "react" : "15.1.0",
     "react-native" : "git+https://github.com/InterfaceInc/react-native.git#0863bcd"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colahq/cola-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/colahq/cola-bubble/issues"
+  },
+  "homepage": "https://github.com/colahq/cola-bubble#readme"
 }
