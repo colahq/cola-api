@@ -1,5 +1,5 @@
 {
-  "name": "@colahq/cola-api",
+  "name": "cola-api",
   "version": "0.0.4",
   "description": "API set for creating bubbles for Cola Messenger app(s)",
   "main": "Cola.js",
